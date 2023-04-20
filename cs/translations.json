@@ -1,0 +1,173 @@
+{
+    "common": {
+        "showMore": "Zobrazit více",
+        "showLess": "Zobrazit méně",
+        "findMore": "Zjistit více",
+        "hide": "Skrýt",
+        "movies": "Filmy",
+        "tvs": "Seriály",
+        "home": "Domů",
+        "ratingText": "Uživatelské hodocení",
+        "showNextCategories": "Zobrazit další kategorie",
+        "similar": "Podobné",
+        "episodes": "epizod",
+        "showEpisodes": "Zobrazit epizody",
+        "showNextSeasons": "Zobrazit další sezóny",
+        "guestStars": "Hostující hvězdy",
+        "crew": "Štáb",
+        "seasons": "Sezóny",
+        "descriptionNotAvailable": "Popis není k dispozici",
+        "dataNotAvailable": "Žádná data nenalezena",
+        "selectLabel": "Vybrat..."
+    },
+    "head": {
+        "defaultTitle": "Vkine.cz – Databáze filmů a seriálů pro opravdové nadšence",
+        "discoverTitle": "Objevujte – Vkine.cz",
+        "moviesTitle": "Filmy – Vkine.cz",
+        "seriesTitle": "Seriály – Vkine.cz",
+        "description": "Databáze filmů a seriálů pro každého. Procházejte tisíce titulů, hledejte své oblíbené filmy nebo seriály a objevujte nové. Informace o filmech a seriálech, jejich obsazení, plakáty a trailers k dispozici jedním kliknutím.",
+        "keywords": "filmy, seriály, databáze filmů, databáze seriálů, vyhledávání filmů, vyhledávání seriálů, filmový katalog, seriálový katalog, informace o filmech, informace o seriálech, Vkine.cz, online filmy, online seriály, filmové novinky, seriálové novinky, filmy online, seriály online"
+    },
+    "header": {
+        "regionText": "Region",
+        "languageTitle": "Jazyk",
+        "selectRegionText": "Vybrat region..."
+    },
+    "languages": {
+        "cs": "Čeština",
+        "sk": "Slovenčina",
+        "en": "English (United States)"
+    },
+    "search": {
+        "people": "Lidé",
+        "searchLabel": "Hledat film, seriál, osobu, ..."
+
+    },
+    "genres": {
+        "28": "Akční",
+        "12": "Dobrodružný",
+        "16": "Animovaný",
+        "35": "Komedie",
+        "80": "Krimi",
+        "99": "Dokumentární",
+        "18": "Drama",
+        "10751": "Rodinný",
+        "14": "Fantasy",
+        "36": "Historický",
+        "27": "Horor",
+        "10402": "Hudební",
+        "9648": "Mysteriózní",
+        "10749": "Romantický",
+        "878": "Vědeckofantastický",
+        "10770": "Televizní film",
+        "53": "Thriller",
+        "10752": "Válečný",
+        "37": "Western",
+        "10759": "Akční & Dobrodružný",
+        "10762": "Dětské",
+        "10763": "Zprávy",
+        "10764": "Reality show",
+        "10765": "Sci-Fi & Fantasy",
+        "10766": "Mýdlová opera",
+        "10767": "Talk show",
+        "10768": "Válka & Politika"
+    },
+    "sorting": {
+        "popularity.asc": "Popularita vzestupně",
+        "popularity.desc": "Popularita sestupně",
+        "release_date.asc": "Datum vydání vzestupně",
+        "release_date.desc": "Datum vydání sestupně",
+        "revenue.asc": "Výnosy vzestupně",
+        "revenue.desc": "Výnosy sestupně",
+        "primary_release_date.asc": "Datum premiéry vzestupně",
+        "primary_release_date.desc": "Datum premiéry sestupně",
+        "original_title.asc": "Originální název vzestupně",
+        "original_title.desc": "Originální název sestupně",
+        "vote_average.asc": "Průměr hlasů vzestupně",
+        "vote_average.desc": "Průměr hlasů sestupně",
+        "vote_count.asc": "Počet hlasů vzestupně",
+        "vote_count.desc": "Počet hlasů sestupně"
+    },
+    "departments": {
+        "Acting": "Herec",
+        "Actors": "Herci",
+        "Art": "Scénografie",
+        "Camera": "Kamera",
+        "Costume & Make-Up": "Kostýmy a masky",
+        "Creator": "Autor",
+        "Crew": "Štáb",
+        "Directing": "Režie",
+        "Editing": "Střih",
+        "Lighting": "Osvětlovač",
+        "Production": "Produkce",
+        "Sound": "Zvuk",
+        "Visual Effects": "Vizuální efekty",
+        "Writing": "Scénář"
+    },
+    "genders": {
+        "unknown": "nespecifikováno",
+        "male": "muž",
+        "female": "žena",
+        "non-binary": "nebinární"
+    },
+    "hero": {
+        "playTrailer": "Přehrát trailer"
+    },
+    "filters": {
+        "order": "Seřadit",
+        "sortOrdersTitle": "Seřadit výsledky podle",
+        "filtersTitle": "Filtry",
+        "releaseDatePremiere": "Datum vydání (premiéra)",
+        "releaseDate": "Datum vydání",
+        "genresTitle": "Žánry",
+        "reviewTitle": "Hodnocení",
+        "reviewCountTitle": "Minimum hlasů",
+        "mediaTitle": "Délka",
+        "filterTagsTitle": "Klíčová slova"
+    },
+    "home": {
+        "nowPlayingMovies": "Právě v kinech",
+        "nowInTV": "Právě v TV",
+        "newest": "Nejnovější",
+        "popular": "Populární",
+        "bestRating": "Nejlépe hodnocené"
+    },
+    "loginPage": {
+        "headline": "Přihlaste se ke svému účtu",
+        "socialNetworks": "Nebo se přihlaste pomocí sociálních sítí",
+        "loginBtn": "Přihlásit se",
+        "forgottenPsw": "Zapomenuté heslo",
+        "newHere": "Jste tu poprvé?",
+        "newHereDescription": "Zaregistrujte se zcela zdarma, je to tak snadné. Klikněte na tlačítko níže...",
+        "registerBtn": "Zaregistrovat se"
+    },
+    "detail": {
+        "runtime": "Délka",
+        "cast": "Obsazení",
+        "overview": "Přehled",
+        "originalTitle": "Původní název",
+        "originalLanguage": "Původní jazyk",
+        "released": "Datum vydání",
+        "budget": "Rozpočet",
+        "revenue": "Tržby",
+        "media": "Media",
+        "videos": "Videa",
+        "wallpapers": "Plakáty"
+    },
+    "collection": {
+        "showCollection": "Zobrazit kolekci",
+        "containsText": "Obsahuje:",
+        "partsTitle": "Počet filmů"
+    },
+    "people": {
+        "informationTitle": "Osobní informace",
+        "biographyLabel": "Biografie",
+        "knownFromLabel": "Znáte z",
+        "knownFromText": "Znáte z",
+        "genderText": "Pohlaví",
+        "birthText": "Datum narození",
+        "deathText": "Datum úmrtí",
+        "birthPlaceText": "Místo narození",
+        "alsoKnownAsText": "Znáte také jako"
+    }
+}
